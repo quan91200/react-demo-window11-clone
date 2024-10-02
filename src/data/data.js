@@ -82,7 +82,7 @@ export const githubRepos = [
     {
         name: "Window11 Demo",
         techUsed: ["React", "TailwindCSS"],
-        description: "",
+        description: "Window11 Demo is a project that simulates the Windows 11 UI using React for component management and logic, combined with Tailwind CSS to create a beautiful, modern, and easily customizable interface.",
         githubLink: "https://github.com/quan91200/react-demo-window11-clone",
         liveURL: "https://react-demo-window11-clone.vercel.app/"
     }
