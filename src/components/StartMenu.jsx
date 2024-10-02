@@ -2,7 +2,7 @@ import React from "react"
 import { useParams } from "react-router-dom"
 
 import { generateInitials } from "./UserProfile"
-import { Power } from '../apps'
+import Power from './Power'
 
 function StartMenu({
     toggleStart,

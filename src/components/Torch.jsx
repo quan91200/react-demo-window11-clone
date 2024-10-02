@@ -107,8 +107,8 @@ const Torch = ({ input, setInput }) => {
                             className="h-10 w-10 z-50 absolute hover:cursor-pointer"
                             style={{ top: randomPosition.top, left: randomPosition.left }}
                             onClick={() => {
-                                playSound();
-                                setInput(null);
+                                playSound()
+                                setInput(null)
                             }}
                             role="button"
                             aria-label="Find the switch to reopen the window"

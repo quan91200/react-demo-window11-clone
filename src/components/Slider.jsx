@@ -83,7 +83,7 @@ const Slider = ({ isMenuOpen, toggleMenu }) => {
                 toggleMenu()
             }}
             style={{
-                background: "url(https://images.alphacoders.com/111/thumb-1920-1112564.jpg)",
+                background: "url(https://c.wallhere.com/photos/82/41/abstract_shapes_fluid_liquid_artwork_digital_art_8_K_colorful-1993817.jpg!d)",
                 backgroundSize: "cover"
             }}
         >

@@ -14,6 +14,7 @@ import {
     MysqlOriginalWordmark,
     PostgresqlOriginal,
     FigmaOriginal,
+    LinkedinOriginal
 } from "devicons-react"
 
 // Constants
@@ -53,7 +54,7 @@ export const githubRepos = [
         description:
             "Multilingual apps allow users to easily switch interface languages, optimizing the experience and expanding global accessibility.",
         githubLink: `${githubLink}/react-multiple-language-app`,
-        liveURL: "https://vercel.com/cobhams-projects/react-multiple-language-app",
+        liveURL: "https://react-multiple-language-app.vercel.app/",
     },
     {
         name: "Weather App",

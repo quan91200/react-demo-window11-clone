@@ -93,7 +93,7 @@ function Apps({ isAppOpen, toggleApp, bounds, input }) {
                                     <iframe
                                         title="Spotify"
                                         style={{ borderRadius: "20px", border: "2px solid black" }}
-                                        src="https://open.spotify.com/embed/playlist/3rxbSirTaXLDgKUOKzLpYL?utm_source=generator&theme=0"
+                                        src="https://open.spotify.com/embed/playlist/0Vcd5lhUHFJZpVepuhhMPH?si=bcd8ee1af41c4419&nd=1&dlsi=e9b01c01489c47b1?utm_source=generator&theme=0"
                                         width="100%"
                                         height="100%"
                                         allowfullscreen=""

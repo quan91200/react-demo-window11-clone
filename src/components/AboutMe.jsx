@@ -4,7 +4,7 @@ import {
     educationExperience,
     skills,
     githubRepos,
-} from "../../data/data"
+} from "../data/data"
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa"
 
 const SkillItem = ({ skillItem, isTechStack = false, iconSize = 15 }) => {
@@ -271,7 +271,7 @@ const AboutMe = ({ page, handleDivClick, expandedDiv }) => {
             case "My Stuffs":
                 return (
                     <div>
-                        <div className="grid sm:grid-cols-2 gap-2">
+                        <div className="grid sm:grid-cols-3 gap-2">
                             {githubRepos.map((repo, index) => (
                                 <ProjectCard key={index} repo={repo} />
                             ))}
@@ -283,9 +283,9 @@ const AboutMe = ({ page, handleDivClick, expandedDiv }) => {
                     <main className="border-0 flex w-full justify-center opacity-75 mt-2 text-sm">
                         too bored to make a resume.
                     </main>
-                );
+                )
             default:
-                return "404 not found";
+                return "404 not found"
         }
     }
 

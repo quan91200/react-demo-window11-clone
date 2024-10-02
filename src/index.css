@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-image: url("https://images.alphacoders.com/111/thumb-440-1112564.webp");
+  background-image: url("/public/images/themes.jpg");
   background-repeat: no-repeat;
   overflow: hidden;
   background-position: center;

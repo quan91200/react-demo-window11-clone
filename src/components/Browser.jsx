@@ -3,7 +3,7 @@ import Draggable from "react-draggable";
 import { useParams } from "react-router-dom"
 
 import { generateInitials } from "./UserProfile"
-import { RightClick } from '../apps'
+import RightClick from './RightClick'
 
 const TitleBar = ({ toggleBrowser }) => (
     <div className="title-bar">

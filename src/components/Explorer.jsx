@@ -533,7 +533,7 @@ const Explorer = ({
                                             : "hover:bg-neutral-700 text-white"
                                             }`}
                                         onClick={() => {
-                                            setPage("Resume");
+                                            setPage("Resume")
                                         }}
                                     >
                                         <img
@@ -544,7 +544,7 @@ const Explorer = ({
                                         Resume
                                     </div>
                                     <a
-                                        href="https://youtube.com"
+                                        href="https://www.linkedin.com/in/cobham-nguyen/"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="flex items-center pl-2.5 mr-8 text-xs w-full h-10 rounded-sm hover:bg-neutral-700 text-white bg-neutral-800 border border-black text-center border-opacity-30 gap-2 group"
