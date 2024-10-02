@@ -80,6 +80,13 @@ export const githubRepos = [
         githubLink: `${githubLink}/react-darkmode-app`,
         liveURL: "https://react-darkmode-app-nine.vercel.app/",
     },
+    {
+        name: "Window11 Demo",
+        techUsed: ["React", "TailwindCSS"],
+        description: "",
+        githubLink: "https://github.com/quan91200/react-demo-window11-clone",
+        liveURL: "https://react-demo-window11-clone.vercel.app/"
+    }
 ]
 
 // Education
