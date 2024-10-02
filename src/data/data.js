@@ -13,8 +13,7 @@ import {
     PostmanPlain,
     MysqlOriginalWordmark,
     PostgresqlOriginal,
-    FigmaOriginal,
-    LinkedinOriginal
+    FigmaOriginal
 } from "devicons-react"
 
 // Constants

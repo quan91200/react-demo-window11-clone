@@ -271,7 +271,7 @@ const AboutMe = ({ page, handleDivClick, expandedDiv }) => {
             case "My Stuffs":
                 return (
                     <div>
-                        <div className="grid sm:grid-cols-3 gap-2">
+                        <div className="grid sm:grid-cols-3 gap-2 overflow-y-scroll">
                             {githubRepos.map((repo, index) => (
                                 <ProjectCard key={index} repo={repo} />
                             ))}
