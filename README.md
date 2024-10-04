@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 
 # Lock Screen
 
-![lockscreen](./public/screenshots/lockscreen)
+![lockscreen](./public/screenshots/lockscreen.png)
 
 # Main
 
